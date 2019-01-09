@@ -1,0 +1,23 @@
+{
+  "name": "heroku-guide",
+  "version": "1.0.0",
+  "description": "node experiments with heroku",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"Hello World\"",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irohdesign/node-heroku-guide.git"
+  },
+  "author": "jalia evans",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irohdesign/node-heroku-guide/issues"
+  },
+  "homepage": "https://github.com/irohdesign/node-heroku-guide#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
